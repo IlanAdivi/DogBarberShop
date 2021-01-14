@@ -1,0 +1,31 @@
+﻿#sticky-nav {
+    position: sticky;
+    top: 0;
+}
+
+#hover a:hover {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+}
+
+#error-border-color {
+    border-color: red;
+}
+
+#error-color {
+    color: red
+}
+
+#loading-image {
+    margin-right: 370px;
+    margin-left: auto;
+    margin-top: 70px;
+    display: block;
+    width: 40%;
+    height: 40%;
+}
+
+.error-border-color {
+    border-color: red;
+}
